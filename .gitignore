@@ -94,6 +94,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+my_env/
 
 # Spyder project settings
 .spyderproject
@@ -112,3 +113,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# List of users in database (local only)
+usernamelist.txt
