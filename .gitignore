@@ -114,5 +114,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# vscode
+.vscode/
 # List of users in database (local only)
 usernamelist.txt
