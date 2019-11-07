@@ -116,5 +116,7 @@ dmypy.json
 
 # vscode
 .vscode/
+
 # List of users in database (local only)
-usernamelist.txt
+user-passwords.txt
+current_objective
